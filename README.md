@@ -5,11 +5,10 @@ December 9th 2020
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The project provides information and statistics based on bikesharing data from three main cities in the US
 
 ### Files used
-Include the files used
+bikeshare_project.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Based on data provided by Udacity in the context of the "Programming for Data Science" Nanodegree
