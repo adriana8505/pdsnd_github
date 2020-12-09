@@ -1,7 +1,7 @@
 ### Date created
 *December 9th 2020*
 
-### Project Title
+## Project Title
 **Bikeshare Project**
 
 ### Description
